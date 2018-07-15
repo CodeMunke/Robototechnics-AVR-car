@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\pakli\source\repos\pid-regulator\pid-regulator\source.cpp(22): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\pakli\source\repos\pid-regulator\pid-regulator\source.cpp(27): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\pakli\source\repos\pid-regulator\pid-regulator\source.cpp(43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\pakli\source\repos\pid-regulator\pid-regulator\source.cpp(48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  PID-regulator.vcxproj -> C:\Users\pakli\source\repos\PID-regulator\Debug\PID-regulator.exe
